@@ -3,9 +3,9 @@
 Chatose is a user chat application built with the Flutter SDK and Firebase as the backend. It offers a seamless and interactive chat experience with a variety of features designed to enhance communication.
 
 <p>
-  <img src="https://github.com/xajxatel/Chatose/assets/137952206/33b8d4b7-9f4a-4db7-a5bf-009bf3a2b33b" alt="landingScreen" width="300" style="padding: 10px;"/>
-  <img src="https://github.com/xajxatel/Chatose/assets/137952206/9fc6f795-f19a-4426-8277-2aafd8f20b62" alt="PhoneAuth" width="300" style="padding: 10px;"/>
-  <img src="https://github.com/xajxatel/Chatose/assets/137952206/62c90509-f419-4fc6-9570-892accaab833" alt="OTPSCREEN" width="300" style="padding: 10px;"/>
+  <img src="https://github.com/xajxatel/Chatose/assets/137952206/33b8d4b7-9f4a-4db7-a5bf-009bf3a2b33b" alt="landingScreen" width="300" style="padding: 40px;"/>
+  <img src="https://github.com/xajxatel/Chatose/assets/137952206/9fc6f795-f19a-4426-8277-2aafd8f20b62" alt="PhoneAuth" width="300" style="padding: 40px;"/>
+  <img src="https://github.com/xajxatel/Chatose/assets/137952206/62c90509-f419-4fc6-9570-892accaab833" alt="OTPSCREEN" width="300" style="padding: 40px;"/>
 </p>
 <p>
   <img src="https://github.com/xajxatel/Chatose/assets/137952206/67d56f3f-4a5b-4ea6-8724-259eb8c621b2" alt="ProfileScreen" width="300" style="padding: 10px;"/>
