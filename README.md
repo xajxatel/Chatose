@@ -37,14 +37,18 @@ Chatose is a user chat application built with the Flutter SDK and Firebase as th
   <img src="https://github.com/xajxatel/Chatose/assets/137952206/8dad28e9-da1b-445d-ad27-6982e050e0b9" alt="ContacsTscreen" width="300" style="padding: 20px;"/>
 </p>
 <p align="center">
-  <img src="https://github.com/xajxatel/Chatose/assets/137952206/8b20005a-f2a9-4a1e-94f4-6a17132ebac6" alt="UserChatVideo" width="400" style="padding: 20px;"/>
-  <img src="https://github.com/xajxatel/Chatose/assets/137952206/d30d7e69-d134-4135-8c36-759394e65fee" alt="UserChatGiF" width="400" style="padding: 20px;"/>
-  <img src="https://github.com/xajxatel/Chatose/assets/137952206/b65792df-d1c5-45ab-b3de-434152235d61" alt="UserChatPhoto" width="400" style="padding: 20px;"/>
+  <img src="https://github.com/xajxatel/Chatose/assets/137952206/8b20005a-f2a9-4a1e-94f4-6a17132ebac6" alt="UserChatVideo" width="500" style="padding: 20px;"/>
+  <img src="https://github.com/xajxatel/Chatose/assets/137952206/d30d7e69-d134-4135-8c36-759394e65fee" alt="UserChatGiF" width="500" style="padding: 20px;"/>
+ 
 </p>
 <p align="center">
-  <img src="https://github.com/xajxatel/Chatose/assets/137952206/b3d6b40f-9b36-42a1-86af-39642f73e607" alt="UserChatSeenUnSeen" width="400" style="padding: 20px;"/>
-  <img src="https://github.com/xajxatel/Chatose/assets/137952206/852f6d3c-7415-4d60-8752-254165dfda13" alt="UserOffline" width="400" style="padding: 20px;"/>
-  <img src="https://github.com/xajxatel/Chatose/assets/137952206/7aacfcd0-a705-4012-88ce-1ab01fb4fd9b" alt="UserChatAudio" width="400" style="padding: 20px;"/>
+  <img src="https://github.com/xajxatel/Chatose/assets/137952206/b65792df-d1c5-45ab-b3de-434152235d61" alt="UserChatPhoto" width="500" style="padding: 20px;"/>
+   <img src="https://github.com/xajxatel/Chatose/assets/137952206/b3d6b40f-9b36-42a1-86af-39642f73e607" alt="UserChatSeenUnSeen" width="500" style="padding: 20px;"/>
+</p>
+<p align="center">
+ 
+  <img src="https://github.com/xajxatel/Chatose/assets/137952206/852f6d3c-7415-4d60-8752-254165dfda13" alt="UserOffline" width="500" style="padding: 20px;"/>
+  <img src="https://github.com/xajxatel/Chatose/assets/137952206/7aacfcd0-a705-4012-88ce-1ab01fb4fd9b" alt="UserChatAudio" width="500" style="padding: 20px;"/>
 </p>
 
 ## Technologies Used
