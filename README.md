@@ -3,6 +3,10 @@
 Chatose is a user chat application built with the Flutter SDK and Firebase as the backend. It offers a seamless and interactive chat experience with a variety of features designed to enhance communication.
 
 <p align="center">
+  <img src="https://github.com/xajxatel/Chatose/assets/logo4.png" alt="Chatose Logo" width="200" style="padding: 10px;"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/xajxatel/Chatose/assets/137952206/33b8d4b7-9f4a-4db7-a5bf-009bf3a2b33b" alt="landingScreen" width="200" style="padding: 10px;"/>
   <span style="font-size: 40px;">➡️</span>
   <img src="https://github.com/xajxatel/Chatose/assets/137952206/9fc6f795-f19a-4426-8277-2aafd8f20b62" alt="PhoneAuth" width="200" style="padding: 10px;"/>
